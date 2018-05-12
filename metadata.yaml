@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33477'
     url: http://www.gutenberg.org/2009/agents/33477
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28664#Langsam-Schnellz-ge-in--sterreich
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2009-05-02'
 gutenberg_type: Text
